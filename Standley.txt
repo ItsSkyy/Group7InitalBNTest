@@ -1,4 +1,1 @@
 This is my text file. 
-This is my addition
-This is another addition
-This is the branch test

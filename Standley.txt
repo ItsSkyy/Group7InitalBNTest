@@ -1,2 +1,1 @@
 This is my text file. 
-This is my update for the text file.
